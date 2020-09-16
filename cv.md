@@ -14,7 +14,7 @@ I'm not afraid to start all over again at this stage of my life. I am ready to s
 
 Years | Where
 ------------------ | ------------------
-**05.2014 - present** | Co-owners of an online store: [XTOOL.BY](http://www.xtool.by/), [ZubrKnives.by](http://zubrknives.by/), [Fonarik.by](https://fonarik.by/)  
+**05.2014 - present** | Co-owners of an online stores: [XTOOL.BY](http://www.xtool.by/), [ZubrKnives.by](http://zubrknives.by/), [Fonarik.by](https://fonarik.by/)  
 **02.2016 - 12.2016** | Head of after Sales Service: *Autoidea BMW*
 **08.2006 - 01.2016** | Head of spare parts and additional equipment department: *Atlant-M VW*
                         
