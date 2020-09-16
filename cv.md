@@ -10,12 +10,19 @@ I'm not afraid to start all over again at this stage of my life. I am ready to s
 
 ***  
 
-### EDUCATION
+### EXPERIENCE  
+
+   **2014 - present** | Co-owners of an online store: [XTOOL.BY](http://www.xtool.by/), [ZubrKnives.by](http://zubrknives.by/), [Fonarik.by](https://fonarik.by/)
+                        
+
+### EDUCATION  
+
 Years | Where
------------- | -------------
-**2020 - present** | RS School
-**2007 - 2016** | Internal training Atlant-M: HR, Profit and loss account, mini-MBA, Work with objections, Correct goal setting, etc.
-**2002 - 2007** | BNTU, Automotive and Tractor Faculty
+------------------ | ------------------
+**2020 - present** | RS School 
+**2007 - 2016** | Internal training Atlant-M: HR, Profit and loss account, mini-MBA, Work with objections, Correct goal setting, etc. 
+**2002 - 2007** | BNTU, Automotive and Tractor Faculty 
 
 
 (https://guides.github.com/features/mastering-markdown/)
+
