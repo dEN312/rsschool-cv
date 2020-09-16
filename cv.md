@@ -10,16 +10,26 @@ I'm not afraid to start all over again at this stage of my life. I am ready to s
 
 ***  
 
-### EXPERIENCE  
+### SKILLS
+
+I have't any skills for this moment.
+
+
+### CODE EXAMPLES
+
+I have't any significant code examles for this moment.
+
+
+### EXPERIENCE
 
 Years | Where
 ------------------ | ------------------
 **05.2014 - present** | Co-owners of an online stores: [XTOOL.BY](http://www.xtool.by/), [ZubrKnives.by](http://zubrknives.by/), [Fonarik.by](https://fonarik.by/)  
-**02.2016 - 12.2016** | Head of after Sales Service: *Autoidea BMW*
-**08.2006 - 01.2016** | Head of spare parts and additional equipment department: *Atlant-M VW*
+**02.2016 - 12.2016** | Head of after sales service department: *"Autoidea BMW"*
+**08.2006 - 01.2016** | Head of spare parts and additional equipments department: *"Atlant-M VW"*
                         
 
-### EDUCATION  
+### EDUCATION
 
 Years | Where
 ------------------ | ------------------
@@ -28,5 +38,9 @@ Years | Where
 **2002 - 2007** | BNTU, Automotive and Tractor Faculty 
 
 
-(https://guides.github.com/features/mastering-markdown/)
+### ENGLISH
+
+A2
+
+[](https://guides.github.com/features/mastering-markdown/)
 
