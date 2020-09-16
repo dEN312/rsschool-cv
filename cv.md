@@ -4,7 +4,7 @@
 
 ***  
 
-Working as a head of department in large companies (over 9 years) and co-owners of an online store (over 6 years), I gained practical experience and knowledge in: personnel management, planning and budgeting, profit and loss account, business process development, online store operation. 
+Working as a head of department in large companies (over 10 years) and co-owners of an online store (over 6 years), I gained practical experience and knowledge in: personnel management, planning and budgeting, profit and loss account, business process development, online store operation. 
 My strengths include: an analytical mind, a sense of tact, interest in new things and the ability to listen and hear others. 
 I'm not afraid to start all over again at this stage of my life. I am ready to study hard to gain new experience and knowledge.I want to get not only a promising job, but also enter a completely different world. This is the IT World!
 
@@ -12,7 +12,11 @@ I'm not afraid to start all over again at this stage of my life. I am ready to s
 
 ### EXPERIENCE  
 
-   **2014 - present** | Co-owners of an online store: [XTOOL.BY](http://www.xtool.by/), [ZubrKnives.by](http://zubrknives.by/), [Fonarik.by](https://fonarik.by/)
+Years | Where
+------------------ | ------------------
+**05.2014 - present** | Co-owners of an online store: [XTOOL.BY](http://www.xtool.by/), [ZubrKnives.by](http://zubrknives.by/), [Fonarik.by](https://fonarik.by/)  
+**02.2016 - 12.2016** | Head of after Sales Service: *Autoidea BMW*
+**08.2006 - 01.2016** | Head of spare parts and additional equipment department: *Atlant-M VW*
                         
 
 ### EDUCATION  
